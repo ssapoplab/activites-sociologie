@@ -1,0 +1,20 @@
+---
+title: "Exemple — Projection-discussion (fiction)"
+subtitle: "Carte de démonstration pour le prototype"
+date: 2027-02-18
+date-affichee: "18 février 2027"
+categories: [Ciné-socio]
+statut: "À venir"
+image: ../../images/cine.png
+heure: "À préciser"
+lieu: "À préciser"
+conferencier: "À préciser"
+affiliation: "—"
+photo: ../../images/avatar.png
+---
+
+::: {.callout-warning}
+Activité **fictive**, ajoutée seulement pour montrer comment les différentes catégories d’activités cohabitent sur le site.
+:::
+
+{{< include ../../_fiche.qmd >}}

@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Activités de diffusion de la recherche",
+    "section": "",
+    "text": "Sociologie UQAM — Activités de diffusion\n\n\nSéminaires, ciné-socio, ateliers et colloques du Département de sociologie, réunis au même endroit : annonces, affiches, présentations et enregistrements.\n\n\n\nÀ venir\n\n\n\n\n\n\n\n\n\n\n\nExemple — Projection-discussion (fiction)\n\n\nCarte de démonstration pour le prototype\n\n\n\nCiné-socio\n\n\n\n\n18 février 2027\n\n\n\n\n\n\n\n\n\n\n\n\n\nExemple — Atelier d’initiation à R (fiction)\n\n\nCarte de démonstration pour le prototype\n\n\n\nAtelier\n\n\n\n\n10 mars 2027\n\n\n\n\n\n\n\n\n\n\n\n\n\nConception d’un projet quantitatif à partir de l’exemple d’une étude sur les attitudes envers l’égalité de genre\n\n\nAnna Zagrebina — Docteure en sociologie (UQAM)\n\n\n\nSéminaire méthodologique\n\n\n\n\n12 avril 2027\n\n\n\n\n\n\nAucun article correspondant\n\n\nRécemment\n\n\n\n\n\n\n\nDate\n\n\n\nTitre\n\n\n\nCatégories\n\n\n\n\n\n\n\n\n12 avr. 2026\n\n\nApprivoiser le site de Statistique Canada pour la recherche\n\n\nSéminaire méthodologique\n\n\n\n\n\n\nAucun article correspondant\n\nVoir toutes les archives →"
+  },
+  {
+    "objectID": "activites/2027-04-12-zagrebina/index.html#résumé",
+    "href": "activites/2027-04-12-zagrebina/index.html#résumé",
+    "title": "Conception d’un projet quantitatif à partir de l’exemple d’une étude sur les attitudes envers l’égalité de genre",
+    "section": "Résumé",
+    "text": "Résumé\nLa présentation abordera les principales étapes de la recherche quantitative fondée sur l’analyse secondaire de données statistiques. Elle portera notamment sur la définition de la problématique et la formulation des hypothèses de recherche en fonction des données disponibles, les choix analytiques, la justification de la spécification du modèle statistique, la présentation des résultats ainsi que leur interprétation au regard des hypothèses de recherche."
+  },
+  {
+    "objectID": "activites/2027-04-12-zagrebina/index.html#bio",
+    "href": "activites/2027-04-12-zagrebina/index.html#bio",
+    "title": "Conception d’un projet quantitatif à partir de l’exemple d’une étude sur les attitudes envers l’égalité de genre",
+    "section": "Bio",
+    "text": "Bio\nAnna Zagrebina est titulaire d’un doctorat en sociologie de l’Université du Québec à Montréal (UQAM), où elle anime également la formation SPSS. Elle possède une expérience diversifiée en recherche quantitative, qualitative et mixte, acquise dans le cadre de collaborations avec plusieurs organisations, notamment l’Institut de statistique de l’UNESCO, l’Institut de la statistique du Québec (ISQ), l’Institut de recherche sur l’immigration et sur les pratiques interculturelles (IRIPII), le CIUSSS du Centre-Ouest-de-l’Île-de-Montréal et le Conseil interculturel de Montréal. Ses travaux portent notamment sur la conception d’enquêtes, l’analyse de données et l’étude de phénomènes sociaux."
+  },
+  {
+    "objectID": "activites/2027-04-12-zagrebina/index.html#après-le-séminaire",
+    "href": "activites/2027-04-12-zagrebina/index.html#après-le-séminaire",
+    "title": "Conception d’un projet quantitatif à partir de l’exemple d’une étude sur les attitudes envers l’égalité de genre",
+    "section": "Après le séminaire",
+    "text": "Après le séminaire\nLes diapositives et l’enregistrement seront ajoutés ici après l’activité."
+  },
+  {
+    "objectID": "activites/exemple-atelier/index.html",
+    "href": "activites/exemple-atelier/index.html",
+    "title": "Exemple — Atelier d’initiation à R (fiction)",
+    "section": "",
+    "text": "Avertissement\n\n\n\nActivité fictive, ajoutée seulement pour montrer comment les différentes catégories d’activités cohabitent sur le site.\n\n\n\n\nDate\n10 mars 2027\nHeure\nÀ préciser\nLieu\nÀ préciser\n\n\n\n\nÀ préciser\n—"
+  },
+  {
+    "objectID": "proposer.html",
+    "href": "proposer.html",
+    "title": "Proposer ou ajouter une activité",
+    "section": "",
+    "text": "Chaque activité correspond à un dossier dans activites/, qui contient un fichier index.qmd. Le haut du fichier (l’en-tête) contient toutes les informations : la page web, la carte sur l’accueil, le classement par catégorie et le fil RSS se construisent automatiquement à partir de lui."
+  },
+  {
+    "objectID": "proposer.html#les-étapes",
+    "href": "proposer.html#les-étapes",
+    "title": "Proposer ou ajouter une activité",
+    "section": "Les étapes",
+    "text": "Les étapes\n\nCopier le dossier _modele/ dans activites/ et le renommer AAAA-MM-JJ-nom (ex. 2027-04-12-zagrebina).\nRemplir l’en-tête : titre, date, catégorie, conférencier·ère, résumé, bio, lien Zoom.\nDéposer l’affiche (affiche.pdf) dans le dossier.\nPublier (GitHub Desktop : Commit puis Push). Le site se met à jour en une à deux minutes.\nAnnoncer sur Facebook, LinkedIn et la liste courriel avec le lien vers la page.\n\nAprès l’activité : passer statut à \"Passée\" et ajouter les diapos et le lien de l’enregistrement. La page devient l’archive permanente de l’activité."
+  },
+  {
+    "objectID": "proposer.html#catégories",
+    "href": "proposer.html#catégories",
+    "title": "Proposer ou ajouter une activité",
+    "section": "Catégories",
+    "text": "Catégories\nSéminaire méthodologique · Ciné-socio · Atelier · Colloque · Conférence"
+  },
+  {
+    "objectID": "proposer.html#le-modèle",
+    "href": "proposer.html#le-modèle",
+    "title": "Proposer ou ajouter une activité",
+    "section": "Le modèle",
+    "text": "Le modèle\n---\ntitle: \"Titre de l'activité\"\nsubtitle: \"Prénom Nom — Affiliation\"\ndate: 2027-01-01\ndate-affichee: \"1er janvier 2027\"\ncategories: [Séminaire méthodologique]\nstatut: \"À venir\"           # ou \"Passée\"\nimage: ../../images/seminaire.png\nheure: \"14 h – 16 h\"\nlieu: \"En ligne (Zoom)\"\nlien-zoom: \"\"\nconferencier: \"Prénom Nom\"\naffiliation: \"Affiliation\"\nphoto: ../../images/avatar.png\ndiapos: \"\"                  # après l'activité\nenregistrement: \"\"          # lien YouTube après l'activité\n---\n\n{{&lt;  include ../../_fiche.qmd  &gt;}}\n\n## Résumé\n\nTexte du résumé.\n\n## Bio\n\nTexte de la bio."
+  },
+  {
+    "objectID": "activites/exemple-cine-socio/index.html",
+    "href": "activites/exemple-cine-socio/index.html",
+    "title": "Exemple — Projection-discussion (fiction)",
+    "section": "",
+    "text": "Avertissement\n\n\n\nActivité fictive, ajoutée seulement pour montrer comment les différentes catégories d’activités cohabitent sur le site.\n\n\n\n\nDate\n18 février 2027\nHeure\nÀ préciser\nLieu\nÀ préciser\n\n\n\n\nÀ préciser\n—"
+  },
+  {
+    "objectID": "activites/2026-04-12-nguyen/index.html#résumé",
+    "href": "activites/2026-04-12-nguyen/index.html#résumé",
+    "title": "Apprivoiser le site de Statistique Canada pour la recherche",
+    "section": "Résumé",
+    "text": "Résumé\nDans cette formation, nous discuterons des stratégies pour naviguer les données sur la page Web de Statistique Canada, ainsi que de la pertinence d’utiliser les données et analyses disponibles pour contextualiser, par exemple, des recherches qualitatives sur des sous-populations particulières."
+  },
+  {
+    "objectID": "archives.html",
+    "href": "archives.html",
+    "title": "Archives",
+    "section": "",
+    "text": "Trier par\n      Ordre par défaut\n      \n        Titre\n      \n      \n        Date - Le plus ancien\n      \n      \n        Date - Le plus récent\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nConception d’un projet quantitatif à partir de l’exemple d’une étude sur les attitudes envers l’égalité de genre\n\n\nAnna Zagrebina — Docteure en sociologie (UQAM)\n\n\n\nSéminaire méthodologique\n\n\n\n\n\n\n12 avril 2027\n\n\n\n\n\n\n\n\n\n\n\n\nExemple — Atelier d’initiation à R (fiction)\n\n\nCarte de démonstration pour le prototype\n\n\n\nAtelier\n\n\n\n\n\n\n10 mars 2027\n\n\n\n\n\n\n\n\n\n\n\n\nExemple — Projection-discussion (fiction)\n\n\nCarte de démonstration pour le prototype\n\n\n\nCiné-socio\n\n\n\n\n\n\n18 février 2027\n\n\n\n\n\n\n\n\n\n\n\n\nApprivoiser le site de Statistique Canada pour la recherche\n\n\nThérèse Nguyen — Ambassadrice de données, Statistique Canada\n\n\n\nSéminaire méthodologique\n\n\n\n\n\n\n12 avril 2026\n\n\n\n\n\nAucun article correspondant"
+  }
+]

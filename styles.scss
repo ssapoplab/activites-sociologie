@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+$primary: #A0236C;
+$link-color: #A0236C;
+$font-family-sans-serif: "Inter", "Helvetica Neue", Arial, sans-serif;
+$body-color: #1F1F24;
+/*-- scss:rules --*/
+.hero { background: linear-gradient(90deg,#300822,#A0236C); color:#fff; padding:2.2rem 2rem; border-radius:6px; margin-bottom:2rem;}
+.hero h1 { color:#fff; font-weight:800; margin:0 0 .4rem 0;}
+.hero p { color:#F5C8E1; margin:0; font-size:1.05rem;}
+.section-label { text-transform:uppercase; letter-spacing:.12em; color:#A0236C; font-size:.78rem; font-weight:700; margin-top:2rem;}
+.infobox { background:#F7EEF3; border-top:4px solid #A0236C; padding:1rem 1.2rem; border-radius:4px; margin:1rem 0 1.5rem;}
+.infobox .row > div { margin-bottom:.4rem;}
+.infobox strong { display:block; font-size:.72rem; letter-spacing:.1em; text-transform:uppercase; color:#A0236C;}
+.speaker { display:flex; gap:1rem; align-items:center; margin:1rem 0;}
+.speaker img { width:72px; height:72px; border-radius:50%;}
+.speaker .nom { font-weight:700; font-size:1.15rem;}
+.speaker .role { color:#5F6368;}
+.ressources a.btn { margin:0 .4rem .4rem 0;}
+.exemple-badge { background:#FFE9A8; color:#5a4500; padding:.15rem .5rem; border-radius:3px; font-size:.75rem; font-weight:700;}
+.quarto-title-banner { min-height: 0; }
+.infogrid { display:grid; grid-template-columns: repeat(3,1fr); gap:1rem;}
+.infogrid p { margin:0; }
+@media (max-width: 600px){ .infogrid { grid-template-columns: 1fr; } }
+.quarto-title-meta, .quarto-title-meta-heading, .quarto-title-meta-contents { display:none !important; }
+img.bandeau { width:100%; border-radius:6px; margin:.5rem 0 1rem; }

@@ -1,0 +1,51 @@
+---
+title: "Proposer ou ajouter une activité"
+---
+
+Chaque activité correspond à **un dossier** dans `activites/`, qui contient **un fichier `index.qmd`**. Le haut du fichier (l'en-tête) contient toutes les informations : la page web, la carte sur l'accueil, le classement par catégorie et le fil RSS se construisent automatiquement à partir de lui.
+
+## Les étapes
+
+1. Copier le dossier `_modele/` dans `activites/` et le renommer `AAAA-MM-JJ-nom` (ex. `2027-04-12-zagrebina`).
+2. Remplir l'en-tête : titre, date, catégorie, conférencier·ère, résumé, bio, lien Zoom.
+3. Déposer l'affiche (`affiche.pdf`) dans le dossier.
+4. Publier (GitHub Desktop : *Commit* puis *Push*). Le site se met à jour en une à deux minutes.
+5. Annoncer sur Facebook, LinkedIn et la liste courriel **avec le lien vers la page**.
+
+**Après l'activité :** passer `statut` à `"Passée"` et ajouter les diapos et le lien de l'enregistrement. La page devient l'archive permanente de l'activité.
+
+## Catégories
+
+`Séminaire méthodologique` · `Ciné-socio` · `Atelier` · `Colloque` · `Conférence`
+
+## Le modèle
+
+````markdown
+---
+title: "Titre de l'activité"
+subtitle: "Prénom Nom — Affiliation"
+date: 2027-01-01
+date-affichee: "1er janvier 2027"
+categories: [Séminaire méthodologique]
+statut: "À venir"           # ou "Passée"
+image: ../../images/seminaire.png
+heure: "14 h – 16 h"
+lieu: "En ligne (Zoom)"
+lien-zoom: ""
+conferencier: "Prénom Nom"
+affiliation: "Affiliation"
+photo: ../../images/avatar.png
+diapos: ""                  # après l'activité
+enregistrement: ""          # lien YouTube après l'activité
+---
+
+{{{<  include ../../_fiche.qmd  >}}}
+
+## Résumé
+
+Texte du résumé.
+
+## Bio
+
+Texte de la bio.
+````

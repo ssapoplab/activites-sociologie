@@ -1,0 +1,27 @@
+---
+title: "Titre de l'activité"
+subtitle: "Prénom Nom — Affiliation"
+date: 2027-01-01
+date-affichee: "1er janvier 2027"
+categories: [Séminaire méthodologique]
+statut: "À venir"           # ou "Passée"
+image: ../../images/seminaire.png
+heure: "14 h – 16 h"
+lieu: "En ligne (Zoom)"
+lien-zoom: ""
+conferencier: "Prénom Nom"
+affiliation: "Affiliation"
+photo: ../../images/avatar.png
+diapos: ""                  # après l'activité
+enregistrement: ""          # lien YouTube après l'activité
+---
+
+{{< include ../../_fiche.qmd >}}
+
+## Résumé
+
+Texte du résumé.
+
+## Bio
+
+Texte de la bio.

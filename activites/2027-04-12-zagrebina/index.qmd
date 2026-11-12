@@ -1,0 +1,32 @@
+---
+title: "Conception d’un projet quantitatif à partir de l’exemple d’une étude sur les attitudes envers l’égalité de genre"
+subtitle: "Anna Zagrebina — Docteure en sociologie (UQAM)"
+date: 2027-04-12
+date-affichee: "12 avril 2027"
+categories: [Séminaire méthodologique]
+statut: "À venir"
+image: ../../images/seminaire.png
+heure: "14 h – 16 h"
+lieu: "En ligne (Zoom)"
+conferencier: "Anna Zagrebina"
+affiliation: "Docteure en sociologie (UQAM)"
+photo: ../../images/avatar.png
+---
+
+{{< include ../../_fiche.qmd >}}
+
+::: ressources
+[Lien Zoom (à venir)](#){.btn .btn-primary} [Affiche (PDF)](affiche.pdf){.btn .btn-outline-primary} [Affiche (Word)](affiche.docx){.btn .btn-outline-primary} [Ajouter à mon agenda](#){.btn .btn-outline-secondary}
+:::
+
+## Résumé
+
+La présentation abordera les principales étapes de la recherche quantitative fondée sur l’analyse secondaire de données statistiques. Elle portera notamment sur la définition de la problématique et la formulation des hypothèses de recherche en fonction des données disponibles, les choix analytiques, la justification de la spécification du modèle statistique, la présentation des résultats ainsi que leur interprétation au regard des hypothèses de recherche.
+
+## Bio
+
+Anna Zagrebina est titulaire d’un doctorat en sociologie de l’Université du Québec à Montréal (UQAM), où elle anime également la formation SPSS. Elle possède une expérience diversifiée en recherche quantitative, qualitative et mixte, acquise dans le cadre de collaborations avec plusieurs organisations, notamment l’Institut de statistique de l’UNESCO, l’Institut de la statistique du Québec (ISQ), l’Institut de recherche sur l’immigration et sur les pratiques interculturelles (IRIPII), le CIUSSS du Centre-Ouest-de-l’Île-de-Montréal et le Conseil interculturel de Montréal. Ses travaux portent notamment sur la conception d’enquêtes, l’analyse de données et l’étude de phénomènes sociaux.
+
+## Après le séminaire
+
+Les diapositives et l’enregistrement seront ajoutés ici après l’activité.

@@ -1,0 +1,27 @@
+![]({{< meta image >}}){.bandeau}
+
+```{=html}
+<div class="infobox"><div class="infogrid">
+<div><strong>Date</strong>
+```
+{{< meta date-affichee >}}
+```{=html}
+</div><div><strong>Heure</strong>
+```
+{{< meta heure >}}
+```{=html}
+</div><div><strong>Lieu</strong>
+```
+{{< meta lieu >}}
+```{=html}
+</div></div></div>
+```
+
+::: speaker
+![]({{< meta photo >}})
+
+::: {}
+[{{< meta conferencier >}}]{.nom}\
+[{{< meta affiliation >}}]{.role}
+:::
+:::

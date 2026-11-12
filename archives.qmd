@@ -1,0 +1,14 @@
+---
+title: "Archives"
+subtitle: "Toutes les activités, à venir et passées"
+listing:
+  contents: activites
+  type: default
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, subtitle, categories]
+  date-format: "D MMMM YYYY"
+  feed: true
+---

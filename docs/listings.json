@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/activites/exemple-cine-socio/index.html",
+      "/activites/exemple-atelier/index.html",
+      "/activites/2027-04-12-zagrebina/index.html",
+      "/activites/2026-04-12-nguyen/index.html"
+    ]
+  },
+  {
+    "listing": "/archives.html",
+    "items": [
+      "/activites/2027-04-12-zagrebina/index.html",
+      "/activites/exemple-atelier/index.html",
+      "/activites/exemple-cine-socio/index.html",
+      "/activites/2026-04-12-nguyen/index.html"
+    ]
+  }
+]

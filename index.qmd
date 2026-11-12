@@ -1,0 +1,49 @@
+---
+title: "Activités de diffusion de la recherche"
+listing:
+  - id: a-venir
+    contents: activites
+    include:
+      statut: "À venir"
+    type: grid
+    grid-columns: 3
+    sort: "date asc"
+    categories: true
+    fields: [image, date, title, categories, subtitle]
+    date-format: "D MMMM YYYY"
+    image-height: 100px
+  - id: recentes
+    contents: activites
+    include:
+      statut: "Passée"
+    type: table
+    sort: "date desc"
+    max-items: 5
+    fields: [date, title, categories]
+    date-format: "D MMM YYYY"
+    sort-ui: false
+    filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+::: hero
+<h1>Sociologie UQAM — Activités de diffusion</h1>
+<p>Séminaires, ciné-socio, ateliers et colloques du Département de sociologie, réunis au même endroit : annonces, affiches, présentations et enregistrements.</p>
+:::
+
+::: section-label
+À venir
+:::
+
+::: {#a-venir}
+:::
+
+::: section-label
+Récemment
+:::
+
+::: {#recentes}
+:::
+
+[Voir toutes les archives →](archives.qmd)

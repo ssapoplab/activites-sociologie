@@ -1,0 +1,28 @@
+---
+title: "Apprivoiser le site de Statistique Canada pour la recherche"
+subtitle: "Thérèse Nguyen — Ambassadrice de données, Statistique Canada"
+date: 2026-04-12
+date-affichee: "12 avril 2026"
+categories: [Séminaire méthodologique]
+statut: "Passée"
+image: ../../images/seminaire.png
+heure: "14 h – 16 h"
+lieu: "En ligne (Zoom)"
+conferencier: "Thérèse Nguyen"
+affiliation: "Ambassadrice de données, Statistique Canada"
+photo: ../../images/avatar.png
+---
+
+{{< include ../../_fiche.qmd >}}
+
+::: ressources
+[Affiche (PDF)](affiche.pdf){.btn .btn-outline-primary} [Diapositives](#){.btn .btn-primary} [Enregistrement](#){.btn .btn-primary}
+:::
+
+::: {.callout-note}
+**Démonstration :** une fois l’activité passée, sa page devient une archive permanente. On y ajoute les diapositives et l’enregistrement (liens fictifs dans ce prototype).
+:::
+
+## Résumé
+
+Dans cette formation, nous discuterons des stratégies pour naviguer les données sur la page Web de Statistique Canada, ainsi que de la pertinence d’utiliser les données et analyses disponibles pour contextualiser, par exemple, des recherches qualitatives sur des sous-populations particulières.

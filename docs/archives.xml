@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Activités de diffusion — Sociologie UQAM</title>
+<link>https://ssapoplab.github.io/activites-sociologie/archives.html</link>
+<atom:link href="https://ssapoplab.github.io/activites-sociologie/archives.xml" rel="self" type="application/rss+xml"/>
+<description>Séminaires, ciné-socio, ateliers et colloques du Département de sociologie de l&#39;UQAM.</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Mon, 12 Apr 2027 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Conception d’un projet quantitatif à partir de l’exemple d’une étude sur les attitudes envers l’égalité de genre</title>
+  <link>https://ssapoplab.github.io/activites-sociologie/activites/2027-04-12-zagrebina/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://ssapoplab.github.io/activites-sociologie/images/seminaire.png" class="bandeau img-fluid"></p>
+<div class="infobox"><div class="infogrid">
+<div><strong>Date</strong>
+<p>12 avril 2027</p>
+</div><div><strong>Heure</strong>
+<p>14 h – 16 h</p>
+</div><div><strong>Lieu</strong>
+<p>En ligne (Zoom)</p>
+</div></div></div>
+<div class="speaker">
+<p><img src="https://ssapoplab.github.io/activites-sociologie/images/avatar.png" class="img-fluid"></p>
+<div>
+<p><span class="nom">Anna Zagrebina</span><br>
+<span class="role">Docteure en sociologie (UQAM)</span></p>
+</div>
+</div>
+<div class="ressources">
+<p>Lien Zoom (à venir) <a href="affiche.pdf" class="btn btn-outline-primary">Affiche (PDF)</a> <a href="affiche.docx" class="btn btn-outline-primary">Affiche (Word)</a> Ajouter à mon agenda</p>
+</div>
+<section id="résumé" class="level2">
+<h2 class="anchored" data-anchor-id="résumé">Résumé</h2>
+<p>La présentation abordera les principales étapes de la recherche quantitative fondée sur l’analyse secondaire de données statistiques. Elle portera notamment sur la définition de la problématique et la formulation des hypothèses de recherche en fonction des données disponibles, les choix analytiques, la justification de la spécification du modèle statistique, la présentation des résultats ainsi que leur interprétation au regard des hypothèses de recherche.</p>
+</section>
+<section id="bio" class="level2">
+<h2 class="anchored" data-anchor-id="bio">Bio</h2>
+<p>Anna Zagrebina est titulaire d’un doctorat en sociologie de l’Université du Québec à Montréal (UQAM), où elle anime également la formation SPSS. Elle possède une expérience diversifiée en recherche quantitative, qualitative et mixte, acquise dans le cadre de collaborations avec plusieurs organisations, notamment l’Institut de statistique de l’UNESCO, l’Institut de la statistique du Québec (ISQ), l’Institut de recherche sur l’immigration et sur les pratiques interculturelles (IRIPII), le CIUSSS du Centre-Ouest-de-l’Île-de-Montréal et le Conseil interculturel de Montréal. Ses travaux portent notamment sur la conception d’enquêtes, l’analyse de données et l’étude de phénomènes sociaux.</p>
+</section>
+<section id="après-le-séminaire" class="level2">
+<h2 class="anchored" data-anchor-id="après-le-séminaire">Après le séminaire</h2>
+<p>Les diapositives et l’enregistrement seront ajoutés ici après l’activité.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Séminaire méthodologique</category>
+  <guid>https://ssapoplab.github.io/activites-sociologie/activites/2027-04-12-zagrebina/</guid>
+  <pubDate>Mon, 12 Apr 2027 04:00:00 GMT</pubDate>
+  <media:content url="https://ssapoplab.github.io/activites-sociologie/images/seminaire.png" medium="image" type="image/png" height="51" width="144"/>
+</item>
+<item>
+  <title>Exemple — Atelier d’initiation à R (fiction)</title>
+  <link>https://ssapoplab.github.io/activites-sociologie/activites/exemple-atelier/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Avertissement
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Activité <strong>fictive</strong>, ajoutée seulement pour montrer comment les différentes catégories d’activités cohabitent sur le site.</p>
+</div>
+</div>
+<p><img src="https://ssapoplab.github.io/activites-sociologie/images/atelier.png" class="bandeau img-fluid"></p>
+<div class="infobox"><div class="infogrid">
+<div><strong>Date</strong>
+<p>10 mars 2027</p>
+</div><div><strong>Heure</strong>
+<p>À préciser</p>
+</div><div><strong>Lieu</strong>
+<p>À préciser</p>
+</div></div></div>
+<div class="speaker">
+<p><img src="https://ssapoplab.github.io/activites-sociologie/images/avatar.png" class="img-fluid"></p>
+<div>
+<p><span class="nom">À préciser</span><br>
+<span class="role">—</span></p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Atelier</category>
+  <guid>https://ssapoplab.github.io/activites-sociologie/activites/exemple-atelier/</guid>
+  <pubDate>Wed, 10 Mar 2027 05:00:00 GMT</pubDate>
+  <media:content url="https://ssapoplab.github.io/activites-sociologie/images/atelier.png" medium="image" type="image/png" height="51" width="144"/>
+</item>
+<item>
+  <title>Exemple — Projection-discussion (fiction)</title>
+  <link>https://ssapoplab.github.io/activites-sociologie/activites/exemple-cine-socio/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Avertissement
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Activité <strong>fictive</strong>, ajoutée seulement pour montrer comment les différentes catégories d’activités cohabitent sur le site.</p>
+</div>
+</div>
+<p><img src="https://ssapoplab.github.io/activites-sociologie/images/cine.png" class="bandeau img-fluid"></p>
+<div class="infobox"><div class="infogrid">
+<div><strong>Date</strong>
+<p>18 février 2027</p>
+</div><div><strong>Heure</strong>
+<p>À préciser</p>
+</div><div><strong>Lieu</strong>
+<p>À préciser</p>
+</div></div></div>
+<div class="speaker">
+<p><img src="https://ssapoplab.github.io/activites-sociologie/images/avatar.png" class="img-fluid"></p>
+<div>
+<p><span class="nom">À préciser</span><br>
+<span class="role">—</span></p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Ciné-socio</category>
+  <guid>https://ssapoplab.github.io/activites-sociologie/activites/exemple-cine-socio/</guid>
+  <pubDate>Thu, 18 Feb 2027 05:00:00 GMT</pubDate>
+  <media:content url="https://ssapoplab.github.io/activites-sociologie/images/cine.png" medium="image" type="image/png" height="51" width="144"/>
+</item>
+<item>
+  <title>Apprivoiser le site de Statistique Canada pour la recherche</title>
+  <link>https://ssapoplab.github.io/activites-sociologie/activites/2026-04-12-nguyen/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://ssapoplab.github.io/activites-sociologie/images/seminaire.png" class="bandeau img-fluid"></p>
+<div class="infobox"><div class="infogrid">
+<div><strong>Date</strong>
+<p>12 avril 2026</p>
+</div><div><strong>Heure</strong>
+<p>14 h – 16 h</p>
+</div><div><strong>Lieu</strong>
+<p>En ligne (Zoom)</p>
+</div></div></div>
+<div class="speaker">
+<p><img src="https://ssapoplab.github.io/activites-sociologie/images/avatar.png" class="img-fluid"></p>
+<div>
+<p><span class="nom">Thérèse Nguyen</span><br>
+<span class="role">Ambassadrice de données, Statistique Canada</span></p>
+</div>
+</div>
+<div class="ressources">
+<p><a href="affiche.pdf" class="btn btn-outline-primary">Affiche (PDF)</a> Diapositives Enregistrement</p>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Démonstration :</strong> une fois l’activité passée, sa page devient une archive permanente. On y ajoute les diapositives et l’enregistrement (liens fictifs dans ce prototype).</p>
+</div>
+</div>
+<section id="résumé" class="level2">
+<h2 class="anchored" data-anchor-id="résumé">Résumé</h2>
+<p>Dans cette formation, nous discuterons des stratégies pour naviguer les données sur la page Web de Statistique Canada, ainsi que de la pertinence d’utiliser les données et analyses disponibles pour contextualiser, par exemple, des recherches qualitatives sur des sous-populations particulières.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Séminaire méthodologique</category>
+  <guid>https://ssapoplab.github.io/activites-sociologie/activites/2026-04-12-nguyen/</guid>
+  <pubDate>Sun, 12 Apr 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://ssapoplab.github.io/activites-sociologie/images/seminaire.png" medium="image" type="image/png" height="51" width="144"/>
+</item>
+</channel>
+</rss>

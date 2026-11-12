@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+lang: fr
+
+website:
+  title: "Activités de diffusion — Sociologie UQAM"
+  site-url: "https://ssapoplab.github.io/activites-sociologie"
+  description: "Séminaires, ciné-socio, ateliers et colloques du Département de sociologie de l'UQAM."
+  navbar:
+    background: "#A0236C"
+    left:
+      - href: index.qmd
+        text: Accueil
+      - text: Activités
+        menu:
+          - text: Séminaires méthodologiques
+            href: "index.qmd#category=Séminaire méthodologique"
+          - text: Ciné-socio
+            href: "index.qmd#category=Ciné-socio"
+          - text: Ateliers
+            href: "index.qmd#category=Atelier"
+          - text: Colloques
+            href: "index.qmd#category=Colloque"
+      - href: archives.qmd
+        text: Archives
+      - href: proposer.qmd
+        text: Proposer une activité
+    right:
+      - icon: rss
+        href: archives.xml
+  page-footer:
+    left: "Département de sociologie · Université du Québec à Montréal"
+    right: "Prototype — Laboratoire de méthodologie de recherche"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false

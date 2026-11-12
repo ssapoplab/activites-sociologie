@@ -1,0 +1,20 @@
+---
+title: "Exemple — Atelier d’initiation à R (fiction)"
+subtitle: "Carte de démonstration pour le prototype"
+date: 2027-03-10
+date-affichee: "10 mars 2027"
+categories: [Atelier]
+statut: "À venir"
+image: ../../images/atelier.png
+heure: "À préciser"
+lieu: "À préciser"
+conferencier: "À préciser"
+affiliation: "—"
+photo: ../../images/avatar.png
+---
+
+::: {.callout-warning}
+Activité **fictive**, ajoutée seulement pour montrer comment les différentes catégories d’activités cohabitent sur le site.
+:::
+
+{{< include ../../_fiche.qmd >}}
